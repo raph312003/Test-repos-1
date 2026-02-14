@@ -5,8 +5,3 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "my-utils"
 version = "0.1.0"
-description = "Fonctions utilitaires Python"
-authors = [
-    { name = "Raphaël" }
-]
-dependencies = []
